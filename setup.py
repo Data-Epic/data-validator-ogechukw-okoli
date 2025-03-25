@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open("README.md", "r", encoding="utf-16") as file:
     long_description = file.read()
 setup(
-    name='datacheckerpro',
+    name='dataverifier',
     version='0.1',
     packages=find_packages(),
     install_requires=[],
